@@ -1,2 +1,3 @@
 # hello-world
-Truly just another repository 
+Truly just another repository...
+...for learning the basics of Github! 
